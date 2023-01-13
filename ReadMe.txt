@@ -1,5 +1,5 @@
 Java Programming
 
-Download IntelliJ Community
+Download JetBrains IntelliJ Community
 
 by Kin Diaz 
